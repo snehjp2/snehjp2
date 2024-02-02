@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋🏽
+
+I'm a third year Ph.D. Candidate in Physics at Northeastern University and [The NSF AI Institute for Artificial Intelligence and Fundamental Interactions](iaifi.org). I'm broadly interested in machine learning applications for theoretical and observational cosmology, particularly utilizing geometric deep learning and probabalistic inference.
+
+A list of my publications can be found on [ADS](https://ui.adsabs.harvard.edu/user/libraries/ZRKIhuN5TvyguORZy3mWVw) or on my [website](https://snehjp2.github.io/publications/).
 
 <!--
 **snehjp2/snehjp2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
