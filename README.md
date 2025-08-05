@@ -1,6 +1,6 @@
 ### Hi there! 👋🏽
 
-I'm a fourth year Ph.D. Candidate in Physics at Northeastern University and [The NSF AI Institute for Artificial Intelligence and Fundamental Interactions](iaifi.org). I'm broadly interested in machine learning applications for theoretical and observational cosmology, particularly utilizing differentiable programming, geometric deep learning, and Bayesian inference.
+I'm a fifth year Ph.D. Candidate in Physics at Northeastern University and [The NSF AI Institute for Artificial Intelligence and Fundamental Interactions](iaifi.org). I'm broadly interested in machine learning applications for theoretical and observational cosmology, particularly utilizing differentiable programming, geometric deep learning, and Bayesian inference.
 
 A list of my publications can be found on [ADS](https://ui.adsabs.harvard.edu/user/libraries/ZRKIhuN5TvyguORZy3mWVw) or on my [website](https://snehjp2.github.io/publications/).
 
